@@ -1,16 +1,10 @@
-<h2 align="center">Hi 👋! My name is Miguel and I'm a Software Engineer Student, from Spain.</h2>
-
-###
-
 <div align="center">
+  <h2 align="center">Hi 👋! My name is Miguel and I'm a Software Engineer Student, from Spain.</h2>
+
   <img height="200" src="https://static.cdn.circlesix.co/uploads/articles/fmngaibzcgs1mn9qlp4d-56717f29e5897.gif"  />
-</div>
+  
+  ![Snake animation](https://github.com/MigFeH/MigFeH/blob/main/dist/github-snake.svg)
 
-###
-
-![Snake animation](https://github.com/MigFeH/MigFeH/blob/main/dist/github-snake.svg)
-
-<div align="left">
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/anaconda/anaconda-original.svg" height="30" alt="anaconda logo"  />
   <img width="12" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/arduino/arduino-original.svg" height="30" alt="arduino logo"  />
@@ -68,20 +62,8 @@
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/visualstudio/visualstudio-plain.svg" height="30" alt="visualstudio logo"  />
   <img width="12" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vscode/vscode-original.svg" height="30" alt="vscode logo"  />
+  
+  ![MigFeH's Stats](https://github-readme-stats.vercel.app/api?username=MigFeH&theme=material-palenight&show_icons=true&hide_border=false&count_private=true)
+  ![MigFeH's Streak](https://github-readme-streak-stats.herokuapp.com/?user=MigFeH&theme=material-palenight&hide_border=false)
+
 </div>
-
-###
-
-<picture>
-  <source
-    srcset="https://github-readme-stats.vercel.app/api?username=MigFeH&show_icons=true&theme=dark&custom_title='My Github Statistics'"
-    media="(prefers-color-scheme: dark)"
-  />
-  <source
-    srcset="https://github-readme-stats.vercel.app/api?username=MigFeH&show_icons=true&custom_title='My Github Statistics'"
-    media="(prefers-color-scheme: light), (prefers-color-scheme: no-preference)"
-  />
-  <img src="https://github-readme-stats.vercel.app/api?username=MigFeH&show_icons=true&custom_title='My Github Statistics'" />
-</picture>
-
-![MigFeH's GitHub stats](https://github-readme-stats.vercel.app/api?username=MigFeH&theme=dark&show_icons=true&hide_border=false&count_private=true&custom_title='My Github Statistics')
