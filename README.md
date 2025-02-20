@@ -1,5 +1,5 @@
 <div align="center">
-  <h2 align="center">Hi 👋! My name is Miguel and I'm a Software Engineer Student, from Spain.</h2>
+  <h1>Hi 👋! My name is Miguel and I'm a Software Engineer Student.</h1>
 
   <img height="200" src="https://static.cdn.circlesix.co/uploads/articles/fmngaibzcgs1mn9qlp4d-56717f29e5897.gif"  />
   
