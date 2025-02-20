@@ -14,19 +14,7 @@ jobs:
 
       - uses: Platane/snk@v3
         with:
-          # github user name to read the contribution graph from (**required**)
-          # using action context var `github.repository_owner` or specified user
           github_user_name: ${{ github.repository_owner }}
-
-          # list of files to generate.
-          # one file per line. Each output can be customized with options as query string.
-          #
-          #  supported options:
-          #  - palette:     A preset of color, one of [github, github-dark, github-light]
-          #  - color_snake: Color of the snake
-          #  - color_dots:  Coma separated list of dots color.
-          #                 The first one is 0 contribution, then it goes from the low contribution to the highest.
-          #                 Exactly 5 colors are expected.
           outputs: |
             dist/github-snake.svg?palette=github-dark&color_dots=black
             dist/github-snake-dark.svg?palette=github-dark
@@ -35,15 +23,19 @@ jobs:
       - name: Prepare Git History
         run: git fetch --unshallow
 
-      - name: Commit and Push Snake SVG
+      - name: Commit generated files
+        run: |
+          git add dist/github-snake.svg || echo "No changes to commit"
+          git add dist/github-snake-dark.svg || echo "No changes to commit"
+          git add dist/ocean.gif || echo "No changes to commit"
+          git commit -m "Update Snake Game SVG" || echo "No changes to commit"
+
+      - name: Pull latest changes before pushing
+        run: |
+          git pull origin main || echo "Failed to pull latest changes. Continuing..."
+
+      - name: Push changes
         env:
           GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
         run: |
-          git config --global user.name "github-actions[bot]"
-          git config --global user.email "41898282+github-actions[bot]@users.noreply.github.com"
-          git pull https://github.com/MigFeH/MigFeH.git
-          git add dist/github-snake.svg || echo "No changes to commit"
-          git add dist/github-snake-dark.svg?palette=github-dark || echo "No changes to commit"
-          git add dist/ocean.gif?color_snake=orange&color_dots=#bfd6f6,#8dbdff,#64a1f4,#4b91f1,#3c7dd9 || echo "No changes to commit"
-          git commit -m "Update Snake Game SVG" || echo "No changes to commit"
-          git push https://github.com/MigFeH/MigFeH.git
+          git push https://x-access-token:${{ secrets.GITHUB_TOKEN }}@github.com/MigFeH/MigFeH.git
