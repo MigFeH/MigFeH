@@ -23,3 +23,4 @@ jobs:
         with:
           name: snake-game
           path: dist/snake.svg
+.
