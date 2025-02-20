@@ -71,3 +71,17 @@
 </div>
 
 ###
+
+<picture>
+  <source
+    srcset="https://github-readme-stats.vercel.app/api?username=MigFeH&show_icons=true&theme=dark&custom_title='My Github Statistics'"
+    media="(prefers-color-scheme: dark)"
+  />
+  <source
+    srcset="https://github-readme-stats.vercel.app/api?username=MigFeH&show_icons=true&custom_title='My Github Statistics'"
+    media="(prefers-color-scheme: light), (prefers-color-scheme: no-preference)"
+  />
+  <img src="https://github-readme-stats.vercel.app/api?username=MigFeH&show_icons=true&custom_title='My Github Statistics'" />
+</picture>
+
+![MigFeH's GitHub stats](https://github-readme-stats.vercel.app/api?username=MigFeH&theme=dark&show_icons=true&hide_border=false&count_private=true&custom_title='My Github Statistics')
