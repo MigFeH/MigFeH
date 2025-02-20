@@ -13,21 +13,18 @@ jobs:
         uses: actions/checkout@v4
 
       - name: Generate Snake Game
-        uses: Platane/snk@v3.2.0
+        uses: Platane/snk@v3
         with:
           github_user_name: ${{ github.repository_owner }}
           outputs: dist/snake.svg
 
-      - name: Push to GitHub
-        uses: actions/upload-artifact@v4
-        with:
-          name: snake-game
-          path: dist/snake.svg
+      - name: Prepare Git History
+        run: git fetch --unshallow
 
       - name: Commit and Push Snake SVG
         run: |
           git config --global user.name "github-actions[bot]"
           git config --global user.email "41898282+github-actions[bot]@users.noreply.github.com"
-          git add dist/snake.svg
-          git commit -m "Update Snake Game SVG"
+          git add dist/snake.svg || echo "No changes to commit"
+          git commit -m "Update Snake Game SVG" || echo "No changes to commit"
           git push
