@@ -23,3 +23,11 @@ jobs:
         with:
           name: snake-game
           path: dist/snake.svg
+
+      - name: Commit and Push Snake SVG
+        run: |
+          git config --global user.name "github-actions[bot]"
+          git config --global user.email "41898282+github-actions[bot]@users.noreply.github.com"
+          git add dist/snake.svg
+          git commit -m "Update Snake Game SVG"
+          git push
