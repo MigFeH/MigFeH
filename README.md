@@ -8,7 +8,7 @@
 
 ###
 
-![Snake animation](https://raw.githubusercontent.com/MigFeH/MigFeH/main/dist/snake.svg)
+![Snake animation](https://github.com/MigFeH/MigFeH/blob/main/dist/github-snake.svg)
 
 <div align="left">
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/anaconda/anaconda-original.svg" height="30" alt="anaconda logo"  />
