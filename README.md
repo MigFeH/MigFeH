@@ -66,6 +66,5 @@
   <p></p>
   
   ![MigFeH's Stats](https://github-readme-stats.vercel.app/api?username=MigFeH&theme=material-palenight&show_icons=true&hide_border=false&count_private=true)
-  ![MigFeH's Streak](https://github-readme-streak-stats.herokuapp.com/?user=MigFeH&theme=material-palenight&hide_border=false)
 
 </div>
