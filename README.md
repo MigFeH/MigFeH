@@ -1,7 +1,8 @@
 <div align="center">
   <h1>Hi 👋! My name is Miguel and I'm a Software Engineer Student.</h1>
 
-  <img height="200" src="https://static.cdn.circlesix.co/uploads/articles/fmngaibzcgs1mn9qlp4d-56717f29e5897.gif"  />
+  <img src="https://64.media.tumblr.com/1e92b196491ab09a80270b3d8823faa0/076905f7fa813dfb-eb/s1280x1920/4fba0616a47ad5e68b833c3d5511d4ece41f2260.gifv"  />
+  <img src="https://64.media.tumblr.com/9884c24e2d2092bf241a97f36130e9d3/076905f7fa813dfb-5c/s1280x1920/8ebf4aee814f1de6b79d988b4e75b6595d662143.gifv"  />
   
   ![Snake animation](https://github.com/MigFeH/MigFeH/blob/main/dist/github-snake.svg)
 
