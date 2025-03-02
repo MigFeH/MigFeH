@@ -24,6 +24,11 @@ jobs:
       - name: Prepare Git History
         run: git fetch --unshallow
 
+      - name: Set up Git user
+        run: |
+          git config --global user.email "github-actions[bot]@users.noreply.github.com"
+          git config --global user.name "github-actions[bot]"
+
       - name: Commit generated files
         run: |
           git add dist/github-snake.svg || echo "No changes to commit"
