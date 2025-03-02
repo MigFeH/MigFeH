@@ -4,7 +4,7 @@
   <img src="https://64.media.tumblr.com/1e92b196491ab09a80270b3d8823faa0/076905f7fa813dfb-eb/s1280x1920/4fba0616a47ad5e68b833c3d5511d4ece41f2260.gifv"  />
   <img src="https://64.media.tumblr.com/9884c24e2d2092bf241a97f36130e9d3/076905f7fa813dfb-5c/s1280x1920/8ebf4aee814f1de6b79d988b4e75b6595d662143.gifv"  />
   
-  ![Snake animation](https://github.com/MigFeH/MigFeH/blob/main/dist/github-snake.svg)
+  ![Snake animation](https://github.com/MigFeH/MigFeH/blob/main/dist/github-snake-dark.svg)
 
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/anaconda/anaconda-original.svg" height="30" alt="anaconda logo"  />
   <img width="12" />
