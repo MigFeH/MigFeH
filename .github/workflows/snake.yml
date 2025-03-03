@@ -46,3 +46,9 @@ jobs:
           GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
         run: |
           git push https://x-access-token:${{ secrets.GITHUB_TOKEN }}@github.com/${{ github.repository }}.git
+
+      - name: Update README with new SVG
+        run: |
+          sed -i 's|<img src="dist/github-snake-dark.svg".*|<img src="dist/github-snake-dark.svg?raw=true" alt="Snake game" />|' README.md
+          git add README.md
+          git commit -m "Update README with new SVG" || echo "No changes to commit"
