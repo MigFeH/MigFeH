@@ -29,17 +29,17 @@ jobs:
 
       - name: Pull latest changes before pushing
         run: |
-          git pull origin main || echo "Failed to pull latest changes. Continuing..."
+          git pull origin main
 
       - name: Commit generated files
         run: |
-          git add dist/github-snake.svg || echo "No changes to commit"
-          git add dist/github-snake-dark.svg || echo "No changes to commit"
-          git commit -m "Update Snake Game SVG" || echo "No changes to commit"
+          git add dist/github-snake.svg
+          git add dist/github-snake-dark.svg
+          git commit -m "Update Snake Game SVG"
 
       - name: Pull latest changes before pushing
         run: |
-          git pull origin main || echo "Failed to pull latest changes. Continuing..."
+          git pull origin main
 
       - name: Push changes
         env:
@@ -51,4 +51,4 @@ jobs:
         run: |
           sed -i 's|<img src="dist/github-snake-dark.svg".*|<img src="dist/github-snake-dark.svg?raw=true" alt="Snake game" />|' README.md
           git add README.md
-          git commit -m "Update README with new SVG" || echo "No changes to commit"
+          git commit -m "Update README with new SVG"
