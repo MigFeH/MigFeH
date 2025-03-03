@@ -27,11 +27,14 @@ jobs:
           git config --global user.email "github-actions[bot]@users.noreply.github.com"
           git config --global user.name "github-actions[bot]"
 
+      - name: Pull latest changes before pushing
+        run: |
+          git pull origin main || echo "Failed to pull latest changes. Continuing..."
+
       - name: Commit generated files
         run: |
           git add dist/github-snake.svg || echo "No changes to commit"
           git add dist/github-snake-dark.svg || echo "No changes to commit"
-          git add dist/ocean.gif || echo "No changes to commit"
           git commit -m "Update Snake Game SVG" || echo "No changes to commit"
 
       - name: Pull latest changes before pushing
