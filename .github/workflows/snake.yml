@@ -31,24 +31,21 @@ jobs:
         run: |
           git pull origin main
 
+      - name: Update README with new SVG
+        run: |
+          sed -i 's|<img src="dist/github-snake-dark.svg".*|<img src="dist/github-snake-dark.svg?raw=true" alt="Snake game" />|' README.md
+          git add README.md
+          git commit -m "Update README with new SVG" || echo "No changes to commit"
+
       - name: Commit generated files
         run: |
           git add dist/github-snake-dark.svg
-          git commit -m "Update Snake Game SVG"
+          git commit -m "Update Snake Game SVG" || echo "No changes to commit"
 
-      - name: Pull latest changes again and pushing
+      - name: Push changes
         env:
           GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
         run: |
           git pull origin main
-          git push https://x-access-token:${{ secrets.GITHUB_TOKEN }}@github.com/${{ github.repository }}.git
-         
-      - name: Update README with new SVG and push changes
-        env:
-          GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
-        run: |
-          sed -i 's|<img src="dist/github-snake-dark.svg".*|<img src="dist/github-snake-dark.svg?raw=true" alt="Snake game" />|' README.md
-          git add README.md
-          git commit -m "Update README with new SVG"
           git push https://x-access-token:${{ secrets.GITHUB_TOKEN }}@github.com/${{ github.repository }}.git
           
