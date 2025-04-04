@@ -53,12 +53,13 @@
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/visualstudio/visualstudio-plain.svg" height="30" alt="visualstudio logo"  />
   <img width="12" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vscode/vscode-original.svg" height="30" alt="vscode logo"  />
-  
+
   <p></p>
   
   ![Visitas](https://komarev.com/ghpvc/?username=MigFeH&color=blueviolet&style=flat-square)
   
-  <p></p>
-  
   ![MigFeH's Stats](https://github-readme-stats.vercel.app/api?username=MigFeH&theme=material-palenight&show_icons=true&hide_border=false&count_private=true)
+
+  ![MigFeH's Trophies](https://github-profile-trophy.vercel.app/?username=MigFeH&theme=dracula&margin-w=15)
+  
 </div>
