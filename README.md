@@ -1,7 +1,7 @@
 <div align="center">
   <h1>Hi 👋! My name is Miguel and I'm a Software Engineer Student.</h1>
 
-  <img width="880" src="https://github.com/user-attachments/assets/12700b49-a6fa-4ab6-bf6b-48734015e501"  />
+  <img width="800" src="https://github.com/user-attachments/assets/12700b49-a6fa-4ab6-bf6b-48734015e501"  />
   
   ![Snake animation](https://github.com/MigFeH/MigFeH/blob/main/dist/github-snake-dark.svg)
 
