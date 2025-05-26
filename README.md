@@ -24,6 +24,25 @@
   | [Estructuras de datos](https://github.com/MigFeH/ED) | [Bases de datos](https://github.com/MigFeH/BD) |
   | [Comunicación persona máquina](https://github.com/MigFeH/CPM) | [Computación numérica](https://github.com/MigFeH/CN) |
   | [Computabilidad](https://github.com/MigFeH/COM) | [Algoritmia](https://github.com/MigFeH/ALGO) |
+
+  ### Tercer curso
+  | Primer semestre | Segundo semestre |
+  |--------------|--------------|
+  | [a](https://github.com/MigFeH/a) | [a](https://github.com/MigFeH/a) |
+  | [a](https://github.com/MigFeH/a) | [a](https://github.com/MigFeH/a) |
+  | [a](https://github.com/MigFeH/a) | [a](https://github.com/MigFeH/a) |
+  | [a](https://github.com/MigFeH/a) | [a](https://github.com/MigFeH/a) |
+  | [a](https://github.com/MigFeH/a) | [a](https://github.com/MigFeH/a) |
+
+  ### Cuarto curso
+  | Primer semestre | Segundo semestre |
+  |--------------|--------------|
+  | [a](https://github.com/MigFeH/a) | [a](https://github.com/MigFeH/a) |
+  | [a](https://github.com/MigFeH/a) | [a](https://github.com/MigFeH/a) |
+  | [a](https://github.com/MigFeH/a) | [a](https://github.com/MigFeH/a) |
+  | [a](https://github.com/MigFeH/a) | [a](https://github.com/MigFeH/a) |
+  | [a](https://github.com/MigFeH/a) | [a](https://github.com/MigFeH/a) |
+  
   ---
 
 <div align="center">
