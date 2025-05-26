@@ -15,7 +15,15 @@
   | [Empresa](https://www.youtube.com/watch?v=dQw4w9WgXcQ) | [Fundamentos de computdores y redes](https://github.com/MigFeH/FCR) |
   | [Fundamentos de informática](https://github.com/MigFeH/FI) | [Autómatas y matemáticas discretas](https://github.com/MigFeH/AMD) |
   | [Introducción a la programación](https://github.com/MigFeH/IP) | [Metodología de la programación](https://github.com/MigFeH/MP) |
-  
+
+  ### Segundo curso
+  | Primer semestre | Segundo semestre |
+  |--------------|--------------|
+  | [Tecnología electrónica de computadores](https://github.com/MigFeH/TEC) | [Sistemas operativos](https://github.com/MigFeH/SO) |
+  | [Arquitectura de computadores](https://github.com/MigFeH/AC) | [Tecnologías y paradigmas de la programación](https://github.com/MigFeH/TPP) |
+  | [Estructuras de datos](https://github.com/MigFeH/ED) | [Bases de datos](https://github.com/MigFeH/BD) |
+  | [Comunicación persona máquina](https://github.com/MigFeH/CPM) | [Computación numérica](https://github.com/MigFeH/CN) |
+  | [Computabilidad](https://github.com/MigFeH/COM) | [Algoritmia](https://github.com/MigFeH/ALGO) |
   ---
 
 <div align="center">
