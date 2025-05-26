@@ -37,11 +37,11 @@
   ### Cuarto curso
   | Primer semestre | Segundo semestre |
   |--------------|--------------|
-  | [a](https://github.com/MigFeH/a) | [a](https://github.com/MigFeH/a) |
-  | [a](https://github.com/MigFeH/a) | [a](https://github.com/MigFeH/a) |
-  | [a](https://github.com/MigFeH/a) | [a](https://github.com/MigFeH/a) |
-  | [a](https://github.com/MigFeH/a) | [a](https://github.com/MigFeH/a) |
-  | [a](https://github.com/MigFeH/a) | [a](https://github.com/MigFeH/a) |
+  | [Sistemas inteligentes](https://github.com/MigFeH/SI) | [Dirección y planificación de proyectos informáticos](https://github.com/MigFeH/DPPI) |
+  | [Ingeniería de requisitos](https://github.com/MigFeH/IR) | [Aspectos sociales, legales, éticos y profesionales de la Informática](https://github.com/MigFeH/ASLEPI) |
+  | [Calidad, validación y verificación del software](https://github.com/MigFeH/CVVS) | [<Practicas en empresa>](https://github.com/MigFeH/a) |
+  | [<Optativa>](https://github.com/MigFeH/a) | [Trabajo fin de grado](https://github.com/MigFeH/TFG) |
+  | [<Optativa>](https://github.com/MigFeH/a) | |
   
   ---
 
