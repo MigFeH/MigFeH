@@ -28,11 +28,11 @@
   ### Tercer curso
   | Primer semestre | Segundo semestre |
   |--------------|--------------|
-  | [a](https://github.com/MigFeH/a) | [a](https://github.com/MigFeH/a) |
-  | [a](https://github.com/MigFeH/a) | [a](https://github.com/MigFeH/a) |
-  | [a](https://github.com/MigFeH/a) | [a](https://github.com/MigFeH/a) |
-  | [a](https://github.com/MigFeH/a) | [a](https://github.com/MigFeH/a) |
-  | [a](https://github.com/MigFeH/a) | [a](https://github.com/MigFeH/a) |
+  | [Repositorios de información](https://github.com/MigFeH/RI) | [Sistemas distribuidos e internet](https://github.com/MigFeH/SDI) |
+  | [Software y estándares para la web](https://github.com/MigFeH/SEW) | [Administración de sistemas y redes](https://github.com/MigFeH/ASR) |
+  | [Ingeniería del proceso software](https://github.com/MigFeH/IPS) | [Arquitectura del software](https://github.com/MigFeH/ASW) |
+  | [Diseño del software](https://github.com/MigFeH/DS) | [Diseño de lenguajes de programación](https://github.com/MigFeH/DLP) |
+  | [<Optativa>](https://github.com/MigFeH/a) | [Seguridad de sistemas informáticos](https://github.com/MigFeH/SSI) |
 
   ### Cuarto curso
   | Primer semestre | Segundo semestre |
