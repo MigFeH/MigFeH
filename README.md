@@ -2,50 +2,6 @@
   <h1>Hi 👋! My name is Miguel and I'm a Software Engineer Student.</h1>
 
   <img width="800" src="https://github.com/user-attachments/assets/12700b49-a6fa-4ab6-bf6b-48734015e501"  />
-
-</div>
-
-  ---
-  ## EII Uniovi
-  ### Primer curso
-  | Primer semestre | Segundo semestre |
-  |--------------|--------------|
-  | [Álgebra lineal](https://github.com/MigFeH/ALGE) | [Ondas y electromagnetismo](https://github.com/MigFeH/OyE) |
-  | [Cálculo](https://github.com/MigFeH/CAL) | [Estadística](https://github.com/MigFeH/EST) |
-  | [Empresa](https://www.youtube.com/watch?v=dQw4w9WgXcQ) | [Fundamentos de computdores y redes](https://github.com/MigFeH/FCR) |
-  | [Fundamentos de informática](https://github.com/MigFeH/FI) | [Autómatas y matemáticas discretas](https://github.com/MigFeH/AMD) |
-  | [Introducción a la programación](https://github.com/MigFeH/IP) | [Metodología de la programación](https://github.com/MigFeH/MP) |
-
-  ### Segundo curso
-  | Primer semestre | Segundo semestre |
-  |--------------|--------------|
-  | [Tecnología electrónica de computadores](https://github.com/MigFeH/TEC) | [Sistemas operativos](https://github.com/MigFeH/SO) |
-  | [Arquitectura de computadores](https://github.com/MigFeH/AC) | [Tecnologías y paradigmas de la programación](https://github.com/MigFeH/TPP) |
-  | [Estructuras de datos](https://github.com/MigFeH/ED) | [Bases de datos](https://github.com/MigFeH/BD) |
-  | [Comunicación persona máquina](https://github.com/MigFeH/CPM) | [Computación numérica](https://github.com/MigFeH/CN) |
-  | [Computabilidad](https://github.com/MigFeH/COM) | [Algoritmia](https://github.com/MigFeH/ALGO) |
-
-  ### Tercer curso
-  | Primer semestre | Segundo semestre |
-  |--------------|--------------|
-  | [Repositorios de información](https://github.com/MigFeH/RI) | [Sistemas distribuidos e internet](https://github.com/MigFeH/SDI) |
-  | [Software y estándares para la web](https://github.com/MigFeH/SEW) | [Administración de sistemas y redes](https://github.com/MigFeH/ASR) |
-  | [Ingeniería del proceso software](https://github.com/MigFeH/IPS) | [Arquitectura del software](https://github.com/MigFeH/ASW) |
-  | [Diseño del software](https://github.com/MigFeH/DS) | [Diseño de lenguajes de programación](https://github.com/MigFeH/DLP) |
-  | [<Optativa>](https://github.com/MigFeH/a) | [Seguridad de sistemas informáticos](https://github.com/MigFeH/SSI) |
-
-  ### Cuarto curso
-  | Primer semestre | Segundo semestre |
-  |--------------|--------------|
-  | [Sistemas inteligentes](https://github.com/MigFeH/SI) | [Dirección y planificación de proyectos informáticos](https://github.com/MigFeH/DPPI) |
-  | [Ingeniería de requisitos](https://github.com/MigFeH/IR) | [Aspectos sociales, legales, éticos y profesionales de la Informática](https://github.com/MigFeH/ASLEPI) |
-  | [Calidad, validación y verificación del software](https://github.com/MigFeH/CVVS) | [<Practicas en empresa>](https://github.com/MigFeH/a) |
-  | [<Optativa>](https://github.com/MigFeH/a) | [Trabajo fin de grado](https://github.com/MigFeH/TFG) |
-  | [<Optativa>](https://github.com/MigFeH/a) | |
-  
-  ---
-
-<div align="center">
   
   ![Snake animation](https://github.com/MigFeH/MigFeH/blob/main/dist/github-snake-dark.svg)
 
@@ -106,3 +62,41 @@
   ![MigFeH's Trophies](https://github-profile-trophy.vercel.app/?username=MigFeH&theme=dracula&margin-w=15)
   
 </div>
+
+  ---
+  ## EII Uniovi
+  ### Primer curso
+  | Primer semestre | Segundo semestre |
+  |--------------|--------------|
+  | [Álgebra lineal](https://github.com/MigFeH/ALGE) | [Ondas y electromagnetismo](https://github.com/MigFeH/OyE) |
+  | [Cálculo](https://github.com/MigFeH/CAL) | [Estadística](https://github.com/MigFeH/EST) |
+  | [Empresa](https://www.youtube.com/watch?v=dQw4w9WgXcQ) | [Fundamentos de computdores y redes](https://github.com/MigFeH/FCR) |
+  | [Fundamentos de informática](https://github.com/MigFeH/FI) | [Autómatas y matemáticas discretas](https://github.com/MigFeH/AMD) |
+  | [Introducción a la programación](https://github.com/MigFeH/IP) | [Metodología de la programación](https://github.com/MigFeH/MP) |
+
+  ### Segundo curso
+  | Primer semestre | Segundo semestre |
+  |--------------|--------------|
+  | [Tecnología electrónica de computadores](https://github.com/MigFeH/TEC) | [Sistemas operativos](https://github.com/MigFeH/SO) |
+  | [Arquitectura de computadores](https://github.com/MigFeH/AC) | [Tecnologías y paradigmas de la programación](https://github.com/MigFeH/TPP) |
+  | [Estructuras de datos](https://github.com/MigFeH/ED) | [Bases de datos](https://github.com/MigFeH/BD) |
+  | [Comunicación persona máquina](https://github.com/MigFeH/CPM) | [Computación numérica](https://github.com/MigFeH/CN) |
+  | [Computabilidad](https://github.com/MigFeH/COM) | [Algoritmia](https://github.com/MigFeH/ALGO) |
+
+  ### Tercer curso
+  | Primer semestre | Segundo semestre |
+  |--------------|--------------|
+  | [Repositorios de información](https://github.com/MigFeH/RI) | [Sistemas distribuidos e internet](https://github.com/MigFeH/SDI) |
+  | [Software y estándares para la web](https://github.com/MigFeH/SEW) | [Administración de sistemas y redes](https://github.com/MigFeH/ASR) |
+  | [Ingeniería del proceso software](https://github.com/MigFeH/IPS) | [Arquitectura del software](https://github.com/MigFeH/ASW) |
+  | [Diseño del software](https://github.com/MigFeH/DS) | [Diseño de lenguajes de programación](https://github.com/MigFeH/DLP) |
+  | [<Optativa>](https://github.com/MigFeH/a) | [Seguridad de sistemas informáticos](https://github.com/MigFeH/SSI) |
+
+  ### Cuarto curso
+  | Primer semestre | Segundo semestre |
+  |--------------|--------------|
+  | [Sistemas inteligentes](https://github.com/MigFeH/SI) | [Dirección y planificación de proyectos informáticos](https://github.com/MigFeH/DPPI) |
+  | [Ingeniería de requisitos](https://github.com/MigFeH/IR) | [Aspectos sociales, legales, éticos y profesionales de la Informática](https://github.com/MigFeH/ASLEPI) |
+  | [Calidad, validación y verificación del software](https://github.com/MigFeH/CVVS) | [<Practicas en empresa>](https://github.com/MigFeH/a) |
+  | [<Optativa>](https://github.com/MigFeH/a) | [Trabajo fin de grado](https://github.com/MigFeH/TFG) |
+  | [<Optativa>](https://github.com/MigFeH/a) | |
