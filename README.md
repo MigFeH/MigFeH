@@ -7,8 +7,8 @@
 
   ---
   ## EII Uniovi
-  ### First year
-  | First semester | Second semester |
+  ### Primer curso
+  | Primer semestre | Segundo semestre |
   |--------------|--------------|
   | [Álgebra lineal](https://github.com/MigFeH/ALGE) | [Ondas y electromagnetismo](https://github.com/MigFeH/OyE) |
   | [Cálculo](https://github.com/MigFeH/CAL) | [Estadística](https://github.com/MigFeH/EST) |
