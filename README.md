@@ -7,7 +7,14 @@
 
   ---
   ## EII Uniovi
-  a
+  ### First year
+  | First semester | Second semester |
+  |--------------|--------------|
+  | [Álgebra lineal](https://github.com/MigFeH/ALGE) | [Ondas y electromagnetismo](https://github.com/MigFeH/OyE) |
+  | [Cálculo](https://github.com/MigFeH/CAL) | [Estadística](https://github.com/MigFeH/EST) |
+  | [Empresa](https://www.youtube.com/watch?v=dQw4w9WgXcQ) | [Fundamentos de computdores y redes](https://github.com/MigFeH/FCR) |
+  | [Fundamentos de informática](https://github.com/MigFeH/FI) | [Autómatas y matemáticas discretas](https://github.com/MigFeH/AMD) |
+  | [Introducción a la programación](https://github.com/MigFeH/IP) | [Metodología de la programación](https://github.com/MigFeH/MP) |
   
   ---
 
