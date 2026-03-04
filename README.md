@@ -58,7 +58,5 @@
     />
     <img src="https://github-stats-vlu5.vercel.app/api?username=MigFeH&theme=material-palenight&show_icons=true&hide_border=false&count_private=true&hide_title=true" alt="MigFeH's Stats" />
   </picture>
-
-  ![MigFeH's Trophies](https://github-profile-trophy.vercel.app/?username=MigFeH&theme=dracula&margin-w=15)
   
 </div>
