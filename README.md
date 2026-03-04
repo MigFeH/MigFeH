@@ -45,8 +45,19 @@
   
   ![Visitas](https://komarev.com/ghpvc/?username=MigFeH&color=blueviolet&style=flat-square)
 
- 
-  ![MigFeH's Stats](https://github-stats-vlu5.vercel.app/api?username=MigFeH&theme=material-palenight&show_icons=true&hide_border=false&count_private=true)
+  <picture>
+    <source
+      srcset="https://github-stats-vlu5.vercel.app/api?username=MigFeH&theme=material-palenight&show_icons=true&hide_border=false&count_private=true"
+      media="(prefers-color-scheme: dark)"
+      alt="MigFeH's Stats"
+    />
+    <source
+      srcset="https://github-readme-stats.vercel.app/api?username=anuraghazra&show_icons=true"
+      media="(prefers-color-scheme: light)"
+      alt="MigFeH's Stats"
+    />
+    <img src="https://github-stats-vlu5.vercel.app/api?username=MigFeH&theme=material-palenight&show_icons=true&hide_border=false&count_private=true" alt="MigFeH's Stats" />
+  </picture>
 
   ![MigFeH's Trophies](https://github-profile-trophy.vercel.app/?username=MigFeH&theme=dracula&margin-w=15)
   
