@@ -52,7 +52,7 @@
       alt="MigFeH's Stats"
     />
     <source
-      srcset="https://github-readme-stats.vercel.app/api?username=anuraghazra&show_icons=true"
+      srcset="https://github-stats-vlu5.vercel.app/api?username=MigFeH&theme=default&show_icons=true&hide_border=false&count_private=true"
       media="(prefers-color-scheme: light)"
       alt="MigFeH's Stats"
     />
